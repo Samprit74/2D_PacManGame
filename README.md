@@ -1,4 +1,4 @@
-# 🟡 2D PacMan Game
+# ![PacMan Logo](https://logos-world.net/wp-content/uploads/2023/03/Pacman-Emblem.png) 2D PacMan Game
 
 A fun **2D PacMan game in Java** featuring multiple levels, lives, wrap-around movement, and high score tracking.
 ---
