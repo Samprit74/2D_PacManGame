@@ -21,7 +21,7 @@ A fun **2D PacMan game in Java** featuring multiple levels, lives, wrap-around m
 ![PacMan Start Screen](resources/screenshots/start.png)  
 *PacMan in the starting safe position.*
 
-![Gameplay](resources/screenshots/gameplay.png)  
+![Gameplay](resources/Screenshot 2025-09-28 162520.png)  
 *Collect food, avoid ghosts, and navigate through the maze.*
 
 ![Game Over](resources/screenshots/gameover.png)  
