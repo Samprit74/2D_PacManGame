@@ -1,8 +1,8 @@
 # 🟡 2D PacMan Game
 
 A fun **2D PacMan game in Java** featuring multiple levels, lives, wrap-around movement, and high score tracking.
-
 ---
+![PacMan Logo](https://tse4.mm.bing.net/th/id/OIP.aP-W9RDfjoz-Fv-wkjASTwHaEc?pid=Api&P=0&h=180)
 # 💻 Tech Stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
@@ -30,10 +30,6 @@ A fun **2D PacMan game in Java** featuring multiple levels, lives, wrap-around m
 
 ![Gameplay](https://github.com/Samprit74/2D_PacManGame/blob/main/src/resources/Screenshot%202025-09-28%20162520.png)  
 *Collect food, avoid ghosts, and navigate through the maze.*
-
-![Game Over](https://github.com/Samprit74/2D_PacManGame/blob/main/src/resources/Screenshot%202025-09-28%20163000.png)  
-*Game over screen.*
-
 ---
 
 ## ⚙️ How to Run
