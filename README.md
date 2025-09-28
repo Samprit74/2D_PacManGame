@@ -1,18 +1,88 @@
-## Getting Started
+# 🟡 2D PacMan Game
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A fun **2D PacMan game in Java** featuring multiple levels, lives, wrap-around movement, and high score tracking.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🎮 Features
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- Classic **PacMan gameplay** with walls, food, and ghosts.
+- **Multiple tile maps**: Every life can show a different layout.
+- **Ghost AI**: Random movement with collision detection.
+- **Lives & Score System**: 3 lives per game and high score tracking.
+- **Wrap-around Movement**: PacMan and ghosts appear on the opposite side if they exit the frame.
+- **Restart Functionality**: Game restarts after "Game Over" or "You Win" on pressing any key.
+- **Graphics & Animations**: PacMan moves with directional animations.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🖼 Screenshots
 
-## Dependency Management
+![PacMan Start Screen](resources/screenshots/start.png)  
+*PacMan in the starting safe position.*
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+![Gameplay](resources/screenshots/gameplay.png)  
+*Collect food, avoid ghosts, and navigate through the maze.*
+
+![Game Over](resources/screenshots/gameover.png)  
+*Game over screen when all lives are lost.*
+
+---
+
+## ⚙️ How to Run
+
+1. Make sure you have **Java JDK 8+** installed.
+2. Clone the repository:
+
+```bash
+git clone https://github.com/Samprit74/2D_PacManGame.git
+cd 2D_PacManGame
+Compile the Java file:
+
+javac PacMan.java
+
+
+Run the game:
+
+java PacMan
+
+🗂 Project Structure
+2D_PacManGame/
+│
+├── resources/
+│   ├── wall.png
+│   ├── blueGhost.png
+│   ├── orangeGhost.png
+│   ├── pinkGhost.png
+│   ├── redGhost.png
+│   ├── pacmanUp.png
+│   ├── pacmanDown.png
+│   ├── pacmanLeft.png
+│   └── pacmanRight.png
+│
+├── PacMan.java
+└── README.md
+
+💡 How to Play
+
+Use Arrow Keys to move PacMan:
+
+↑ : Move Up
+
+↓ : Move Down
+
+← : Move Left
+
+→ : Move Right
+
+Collect all food to win the level.
+
+Avoid ghosts. Touching a ghost decreases a life.
+
+The game ends when all lives are lost. Press any key to restart.
+
+Made With
+
+Java Swing for GUI
+
+Java AWT for graphics & events
