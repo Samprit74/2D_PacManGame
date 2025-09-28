@@ -8,7 +8,7 @@ A fun **2D PacMan game in Java** featuring multiple levels, lives, wrap-around m
 
 - Classic **PacMan gameplay** with walls, food, and ghosts.
 - **Multiple tile maps**: Every life can show a different layout.
-- **Ghost AI**: Random movement with collision detection.
+- **Random Ghost Movement**: Ghosts move randomly and bounce off walls.
 - **Lives & Score System**: 3 lives per game and high score tracking.
 - **Wrap-around Movement**: PacMan and ghosts appear on the opposite side if they exit the frame.
 - **Restart Functionality**: Game restarts after "Game Over" or "You Win" on pressing any key.
@@ -24,8 +24,8 @@ A fun **2D PacMan game in Java** featuring multiple levels, lives, wrap-around m
 ![Gameplay](https://github.com/Samprit74/2D_PacManGame/blob/main/src/resources/Screenshot%202025-09-28%20162520.png)  
 *Collect food, avoid ghosts, and navigate through the maze.*
 
-![Game Over](resources/screenshots/gameover.png)  
-*Game over screen when all lives are lost.*
+![Game Over](https://github.com/Samprit74/2D_PacManGame/blob/main/src/resources/Screenshot%202025-09-28%20163000.png)  
+*Game over screen.*
 
 ---
 
@@ -81,8 +81,10 @@ Avoid ghosts. Touching a ghost decreases a life.
 
 The game ends when all lives are lost. Press any key to restart.
 
-Made With
+✨ Made With
 
-Java Swing for GUI
+Java SE
 
-Java AWT for graphics & events
+Java Swing GUI
+
+Java AWT for graphics/events
