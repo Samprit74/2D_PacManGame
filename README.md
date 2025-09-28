@@ -18,7 +18,7 @@ A fun **2D PacMan game in Java** featuring multiple levels, lives, wrap-around m
 
 ## 🖼 Screenshots
 
-![PacMan Start Screen](resources/screenshots/start.png)  
+![PacMan Start Screen](https://github.com/Samprit74/2D_PacManGame/blob/main/src/resources/Screenshot%202025-09-28%20162719.png)  
 *PacMan in the starting safe position.*
 
 ![Gameplay](https://github.com/Samprit74/2D_PacManGame/blob/main/src/resources/Screenshot%202025-09-28%20162520.png)  
