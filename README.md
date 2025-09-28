@@ -3,6 +3,13 @@
 A fun **2D PacMan game in Java** featuring multiple levels, lives, wrap-around movement, and high score tracking.
 
 ---
+# 💻 Tech Stack
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
+![Swing](https://img.shields.io/badge/Java_Swing-007396?style=plastic&logo=java&logoColor=white) 
+![AWT](https://img.shields.io/badge/Java_AWT-FF6F00?style=plastic&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 
 ## 🎮 Features
 
